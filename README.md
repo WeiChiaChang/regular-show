@@ -1,4 +1,4 @@
-## regular-show
+## regular-show [![Build Status](https://travis-ci.org/WeiChiaChang/regular-show.svg?branch=master)](https://travis-ci.org/WeiChiaChang/regular-show)
 > Get random name of Regular Show
 
 ![regular-show](https://i.imgur.com/WBuT5e3.jpg)

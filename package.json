@@ -1,7 +1,7 @@
 {
   "name": "regular-show",
   "bin": "regular-show.js",
-  "version": "1.0.30",
+  "version": "1.0.32",
   "description": "Get random name of Regular Show",
   "scripts": {
     "test": "mocha"
