@@ -1,6 +1,10 @@
 ## regular-show
 > Get random name of Regular Show
 
+![regular-show](https://i.imgur.com/WBuT5e3.jpg)
+
+Photo credit: [3-very-important-life-lessons-from-regular-show](https://www.theodysseyonline.com/3-very-important-life-lessons-from-regular-show)
+
 This name lists are just JSON files and you can use wherever.
 
 Being a super fans of Regular Show, I have to do something to commemorate my favorite cartoon.
@@ -9,7 +13,7 @@ This project highly learned from [sindresorhus/superb](https://github.com/sindre
 
 ## Installation
 ```shell
-$ npm install --save regular-show
+$ npm i --save regular-show
 ```
 
 ## Usage
