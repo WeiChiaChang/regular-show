@@ -1,8 +1,8 @@
 {
   "name": "regular-show",
   "bin": "regular-show.js",
-  "version": "1.0.14",
-  "description": "Get your favorite name in Regular Show",
+  "version": "1.0.16",
+  "description": "Get random name in Regular Show",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
