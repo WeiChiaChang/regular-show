@@ -1,9 +1,9 @@
-# regular-show
+## regular-show
 > Get your favorite name in Regular Show
 
 This name lists are just JSON files and you can use wherever.
 
-# CLI
+## CLI
 ```shell
 $ npm i regular-show -g
 ```
@@ -12,6 +12,7 @@ $ npm i regular-show -g
 $ npm regular-show --help
   
   Get your favorite name in Regular Show
+
   Examples
     $ regular-show
     Mordecai
@@ -26,5 +27,5 @@ $ npm regular-show --help
     --all  Fetch all the names rather than a random name
 ```
 
-# License
+## License
 MIT © [WeiChiaChang](https://github.com/WeiChiaChang)
