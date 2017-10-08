@@ -3,6 +3,33 @@
 
 This name lists are just JSON files and you can use wherever.
 
+## Usage
+```shell
+var regularShow = require('regular-show');
+
+regularShow();
+//=> Mordecai
+
+regularShow();
+//=> Rigby
+
+regularShow.words;
+// ['Mordecai', 'Rigby', ...]
+```
+
+## API
+regularShow()
+
+Type: `string`
+
+Random charcater's name in Regular Show.
+
+regularShow.names
+
+Type: `array`
+
+Fetch all of the names.
+
 ## CLI
 ```shell
 $ npm i regular-show -g

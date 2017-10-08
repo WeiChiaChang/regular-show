@@ -1,7 +1,7 @@
 'use strict';
 
 var uniqueRandomArray = require('unique-random-array');
-var words = require('./regular-show-names.json');
+var names = require('./regular-show-names.json');
 
-module.exports = uniqueRandomArray(words);
-module.exports.words = words;
+module.exports = uniqueRandomArray(names);
+module.exports.names = names;

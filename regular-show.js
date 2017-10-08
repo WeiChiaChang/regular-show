@@ -19,4 +19,4 @@ var cli = meow([
   '  --all  Fetch all the names rather than a random name'
 ]);
 
-console.log(cli.flags.all ? regularShow.words.join('\n') : regularShow());
+console.log(cli.flags.all ? regularShow.names.join('\n') : regularShow());
