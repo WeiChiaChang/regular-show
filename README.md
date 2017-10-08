@@ -1,5 +1,5 @@
 ## regular-show
-> Get random name in Regular Show
+> Get random name of Regular Show
 
 This name lists are just JSON files and you can use wherever.
 
@@ -44,7 +44,7 @@ $ npm i regular-show -g
 ```shell
 $ npm regular-show --help
   
-  Get random name in Regular Show
+  Get random name of Regular Show
 
   Examples
     $ regular-show
