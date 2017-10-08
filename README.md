@@ -3,6 +3,11 @@
 
 This name lists are just JSON files and you can use wherever.
 
+## Installation
+```shell
+$ npm install --save regular-show
+```
+
 ## Usage
 ```shell
 var regularShow = require('regular-show');
