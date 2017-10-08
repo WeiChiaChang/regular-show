@@ -3,6 +3,9 @@
 
 This name lists are just JSON files and you can use wherever.
 
+Being a super fans of Regular Show, I have to do something to commemorate my favorite cartoon.
+This project highly learned from [sindresorhus/superb](https://github.com/sindresorhus/superb).
+
 ## Installation
 ```shell
 $ npm install --save regular-show
