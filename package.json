@@ -1,0 +1,34 @@
+{
+  "name": "regular-show",
+  "bin": "regular-show.js",
+  "version": "1.0.0",
+  "description": "Get your favorite name in Regular Show",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WeiChiaChang/regular-show.git"
+  },
+  "keywords": [
+    "regular-show",
+    "regular-show-cli",
+    "cli",
+    "bin"
+  ],
+  "files": [
+    "index.js",
+    "regular-show-cli.js",
+    "regular-show-names.json"
+  ],
+  "author": "weichiachang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WeiChiaChang/regular-show/issues"
+  },
+  "homepage": "https://github.com/WeiChiaChang/regular-show#readme",
+  "dependencies": {
+    "meow": "^3.7.0",
+    "unique-random-array": "^1.0.0"
+  }
+}
