@@ -3,7 +3,7 @@
 
 ![regular-show](https://i.imgur.com/WBuT5e3.jpg)
 
-Photo credit: [3-very-important-life-lessons-from-regular-show](https://www.theodysseyonline.com/3-very-important-life-lessons-from-regular-show)
+Photo credit : [3 Very Important Life Lessons From Regular Show](https://www.theodysseyonline.com/3-very-important-life-lessons-from-regular-show)
 
 This name lists are just JSON files and you can use wherever.
 
