@@ -10,7 +10,8 @@ $ npm install --save regular-show
 
 ## Usage
 ```shell
-var regularShow = require('regular-show');
+var regularShow = require('regular-show');  // Conventional but classic way
+import regularShow from 'regular-show';     // Or much more modern ES6  way
 
 regularShow();
 // Mordecai
