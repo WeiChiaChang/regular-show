@@ -8,10 +8,10 @@ This name lists are just JSON files and you can use wherever.
 var regularShow = require('regular-show');
 
 regularShow();
-//=> Mordecai
+// Mordecai
 
 regularShow();
-//=> Rigby
+// Rigby
 
 regularShow.words;
 // ['Mordecai', 'Rigby', ...]
@@ -22,7 +22,7 @@ regularShow()
 
 Type: `string`
 
-Random charcater's name in Regular Show.
+Generate random character's name in Regular Show.
 
 regularShow.names
 
