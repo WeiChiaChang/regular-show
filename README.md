@@ -36,7 +36,7 @@ regularShow()
 
 Type: `string`
 
-Generate random character's name in Regular Show.
+Generate random character's name of Regular Show.
 
 regularShow.names
 
