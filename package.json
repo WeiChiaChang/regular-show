@@ -1,7 +1,7 @@
 {
   "name": "regular-show",
   "bin": "regular-show.js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Get your favorite name in Regular Show",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,7 +18,7 @@
   ],
   "files": [
     "index.js",
-    "regular-show-cli.js",
+    "regular-show.js",
     "regular-show-names.json"
   ],
   "author": "weichiachang",

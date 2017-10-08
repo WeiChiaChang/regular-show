@@ -2,7 +2,7 @@
 'use strict';
 
 var meow = require('meow');
-var regualrShow = require('./');
+var regularShow = require('./');
 
 var cli = meow([
   'Examples',
@@ -19,4 +19,4 @@ var cli = meow([
   '  --all  Fetch all the names rather than a random name'
 ]);
 
-console.log(cli.flags.all ? regualrShow.words.join('\n') : regualrShow());
+console.log(cli.flags.all ? regularShow.words.join('\n') : regularShow());
